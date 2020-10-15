@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    #HW8
+    Created on : Oct 24, 2017
+    Author     : Dora Tomljenovic
+*/
+
+
+/* 
+*Background image taken from: 
+https://wallpaperstock.net/cat-paws-wallpapers_w36019.html
+*/
+html{
+    background-image: url("../cat2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;   
+}
+body{
+    
+    font-family: 'PT Serif', serif;
+    color: #ffffff; 
+}
+
+h3{   
+    font-size: 25pt;
+    color: #EECFA1;
+    padding-top: -12%;
+}
+
+img{
+      width: 20%;
+    height: 20%;
+    padding-left: 39%;   
+}
+
+input{
+    color: #781351;
+    background: #ffffff;
+    border: 1px solid red;  
+}
+
+textarea {
+    color: #781351;
+    background: #ffffff;
+    border: 1px solid #781351;   
+}
+
+fieldset{   
+    border-radius: 4px;  
+   -moz-border-radius: 4px;  
+   -webkit-border-radius: 4px;
+    border: 2px dashed #79756F;
+    width: 98%;
+}
+
+
+
+
+
+
+
+
